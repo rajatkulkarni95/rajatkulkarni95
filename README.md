@@ -1,6 +1,5 @@
 Hey I'm Rajat!
 
-I'm a frontend engineer, helping build beautiful experiences.
-Currently work on all things Frontend [@Avoma](https://avoma.com)
+Hacking on helping solve meeting problems at [@Avoma](https://avoma.com) on the weekdays! Doing random shit on the weekends (evident by the contrib graph below)
 
 [My Personal Website](https://rajatkulkarni.dev)
