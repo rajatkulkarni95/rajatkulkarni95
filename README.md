@@ -1,7 +1,7 @@
 Hey I'm Rajat!
 
-Helping solve meeting problems [@Avoma](https://avoma.com) on the weekdays! 
+Helping make your meetings productive [@Avoma](https://avoma.com) on the weekdays! 
 
-Doing random shit on the weekends (evident by the contrib graph below)
+Trying my best on the rest :)
 
-[My Personal Website](https://rajatkulkarni.dev)
+Come say hi!
